@@ -1,4 +1,4 @@
-FROM registry.opensource.zalan.do/acid/pgbouncer:master-26
+FROM registry.opensource.zalan.do/acid/pgbouncer:master-27
 
 USER pgbouncer
 # Tweak for fast switchover
